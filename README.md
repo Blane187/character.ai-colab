@@ -5,7 +5,7 @@
 
 
 
-This colab was created based on [CharacterAJ](https://github.com/kramcat/CharacterAI.git)  repositories. This includes:
+This colab was created based on [CharacterAI](https://github.com/kramcat/CharacterAI.git)  repositories. This includes:
 * login via email
   * get token form email (i lazy to make how to use :/)
 * etc
