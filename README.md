@@ -7,7 +7,7 @@
 
 This colab was created based on [CharacterAJ](https://github.com/kramcat/CharacterAI.git)  repositories. This includes:
 * login via email
-   * get token form email (i lazy to make how to use :/)
+  * get token form email (i lazy to make how to use :/)
 * etc
 
 ## Contributions
